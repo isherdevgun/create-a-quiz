@@ -1,0 +1,67 @@
+body {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 80px;
+  margin-right: 150px;
+  font-family: "Montserrat", sans-serif;
+background-color:blue;
+}
+
+h1 {
+  color: #f64c72;
+  text-align: center;
+  letter-spacing: 3px;
+}
+h2 {
+  color: #99738e;
+
+  font-style: initial;
+  font-variant: small-caps;
+}
+p {
+  
+  color: #f64c72;
+}
+
+ol {
+  color: #99738e;
+  font-weight: bold;
+}
+ul {
+  color: #99738e;
+  font-weight: bold;
+}
+h2,
+ul,
+input,
+p {
+  letter-spacing: 0.5px;
+}
+a:hover {
+  letter-spacing: 1px;
+  font-weight: bold;
+  color: #f64c72;
+  text-decoration: underline;
+}
+button{ 
+  background-color: #f64c72;
+  width: 150px;
+  padding:10px 15px;
+  font-size: 20px;
+  font-weight:bold;
+  border-radius: 75mm
+}
+span{ 
+  font-weight: bold;
+  color: blue;
+  font-size: 200%
+}
+div{
+  background-color: white;
+  padding: 20px 150px;
+}
+#feedback{
+  font-weight: bold;
+  color: blue;
+  font-size: 50px;
+}
